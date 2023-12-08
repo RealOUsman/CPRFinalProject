@@ -1,0 +1,115 @@
+Which module to run?
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Finish
+1
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+7
+Type the character position within the string:
+1
+Too big... Position reduced to max. available
+The character found at 0 position is '7'
+Type not empty string (q - to quit):
+superman
+Type the character position within the string:
+3
+The character found at 3 position is 'e'
+Type not empty string (q - to quit):
+horse
+Type the character position within the string:
+5
+Too big... Position reduced to max. available
+The character found at 4 position is 'e'
+Type not empty string (q - to quit):
+a
+Type the character position within the string:
+q
+The character found at 0 position is 'a'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+Which module to run?
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Finish
+2
+*** Start if Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+a
+Type the 2nd string:
+z
+Concatenated string is 'az'
+Type the 1st string (q - to quit):
+qwertyuiopasdfghjklzxcvbnmqwertyuiopasdf
+Type the 2nd string:
+qwertyuiopasdfghjklzxcvbnmqwertyuiopasdf
+Concatenated string is 'qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfqwertyuiopasdfghjklzxcvbnmqwertyuiopasdf'
+Type the 1st string (q - to quit):
+qwertyuiopasdfghjklzxcvbnmqwertyuiopasdf
+Type the 2nd string:
+qwertyuiopasdfghjklzxcvbnmqwertyuiopasdf
+Concatenated string is 'qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfqwertyuiopasdfghjklzxcvbnmqwertyuiopasdf'
+Type the 1st string (q - to quit):
+q
+*** End of Comcatenating Strings Demo ***
+
+Which module to run?
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Finish
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q to quit):
+
+Type a few words separated by space (q to quit):
+"$%^&"
+Word is #1 is '"$%^&"'
+Type a few words separated by space (q to quit):
+she said, hello
+Word is #1 is 'she'
+Word is #2 is 'said,'
+Word is #3 is 'hello'
+Type a few words separated by space (q to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+Which module to run?
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Finish
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit):
+8000000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is 2147483647
+Type an int numeric string (q - to quit):
+Converted number is 0
+Type an int numeric string (q - to quit):
+-80000000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is -2147483648
+Type an int numeric string (q - to quit):
+Converted number is 0
+Type an int numeric string (q - to quit):
+40
+Converted number is 40
+Type an int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+Which module to run?
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Finish
+0

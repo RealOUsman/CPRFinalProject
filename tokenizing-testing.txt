@@ -1,0 +1,72 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q to quit):
+apple banana orange
+Word is #1 is 'apple'
+Word is #2 is 'banana'
+Word is #3 is 'orange'
+Type a few words separated by space (q to quit):
+
+Type a few words separated by space (q to quit):
+Q
+Word is #1 is 'Q'
+Type a few words separated by space (q to quit):
+$%^&
+Word is #1 is '$%^&'
+Type a few words separated by space (q to quit):
+word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word
+Word is #1 is 'word'
+Word is #2 is 'word'
+Word is #3 is 'word'
+Word is #4 is 'word'
+Word is #5 is 'word'
+Word is #6 is 'word'
+Word is #7 is 'word'
+Word is #8 is 'word'
+Word is #9 is 'word'
+Word is #10 is 'word'
+Word is #11 is 'word'
+Word is #12 is 'word'
+Word is #13 is 'word'
+Word is #14 is 'word'
+Word is #15 is 'word'
+Word is #16 is 'word'
+Word is #17 is 'word'
+Word is #18 is 'word'
+Word is #19 is 'word'
+Word is #20 is 'word'
+Word is #21 is 'word'
+Word is #22 is 'word'
+Word is #23 is 'word'
+Word is #24 is 'word'
+Word is #25 is 'word'
+Word is #26 is 'word'
+Word is #27 is 'word'
+Word is #28 is 'word'
+Word is #29 is 'word'
+Word is #30 is 'word'
+Word is #31 is 'word'
+Word is #32 is 'word'
+Word is #33 is 'word'
+Word is #34 is 'word'
+Word is #35 is 'word'
+Word is #36 is 'word'
+Word is #37 is 'word'
+Word is #38 is 'word'
+Word is #39 is 'word'
+Word is #40 is 'word'
+Word is #41 is 'word'
+Word is #42 is 'word'
+Word is #43 is 'word'
+Word is #44 is 'word'
+Word is #45 is 'word'
+Word is #46 is 'word'
+Word is #47 is 'word'
+Word is #48 is 'word'
+Word is #49 is 'word'
+Word is #50 is 'word'
+Type a few words separated by space (q to quit):
+123 456 789
+Word is #1 is '123'
+Word is #2 is '456'
+Word is #3 is '789'
+Type a few words separated by space (q to quit):

@@ -1,0 +1,39 @@
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit):
+80000000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is 2147483647
+Type an int numeric string (q - to quit):
+Converted number is 0
+Type an int numeric string (q - to quit):
+-8000000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is -2147483648
+Type an int numeric string (q - to quit):
+Converted number is 0
+Type an int numeric string (q - to quit):
+40
+Converted number is 40
+Type an int numeric string (q - to quit):
+13
+Converted number is 13
+Type an int numeric string (q - to quit):
+abc
+Converted number is 0
+Type an int numeric string (q - to quit):
+0
+Converted number is 0
+Type an int numeric string (q - to quit):
+80000000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is 2147483647
+Type an int numeric string (q - to quit):
+Converted number is 0
+Type an int numeric string (q - to quit):
+-80000000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is -2147483648
+Type an int numeric string (q - to quit):
+Converted number is 0
+Type an int numeric string (q - to quit):
+Q
+Converted number is 0
+Type an int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***

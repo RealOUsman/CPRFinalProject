@@ -1,0 +1,31 @@
+*** Start if Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+a
+Type the 2nd string:
+z
+Concatenated string is 'az'
+Type the 1st string (q - to quit):
+qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm
+Type the 2nd string:
+qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm
+Concatenated string is 'qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm'
+Type the 1st string (q - to quit):
+qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm
+Type the 2nd string:
+Concatenated string is 'qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmwertyuiopasdfghjklzxcvbnm'
+Type the 1st string (q - to quit):
+
+Type the 2nd string:
+
+Concatenated string is ''
+Type the 1st string (q - to quit):
+qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdf
+Type the 2nd string:
+qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdf
+Concatenated string is 'qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdf'
+Type the 1st string (q - to quit):
+-qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm
+Type the 2nd string:
+-qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm
+Concatenated string is '-qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm-qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm'
+Type the 1st string (q - to quit):
