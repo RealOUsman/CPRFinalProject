@@ -83,3 +83,44 @@ Converted number is 0.000000
 Type an double numeric string (q - to quit):
 q
 *** End of Converting Strings to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type an double numeric string (q - to quit):
+-100000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is -10000000000000000470601344959054695891559601407866630764278709534898249531392.000000
+Type an double numeric string (q - to quit):
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+100000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is 99999999999999998278261272554585856747747644714015897553975120217811154108416.000000
+Type an double numeric string (q - to quit):
+314159265
+Converted number is 314159265.000000
+Type an double numeric string (q - to quit):
+5.62951413
+Converted number is 5.629514
+Type an double numeric string (q - to quit):
+abc.abc
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+30
+Converted number is 30.000000
+Type an double numeric string (q - to quit):
+0
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+-100000000000000000000000000000000000000000000000000000000000000000000000000000000.1000
+Converted number is -10000000000000000470601344959054695891559601407866630764278709534898249531392.000000
+Type an double numeric string (q - to quit):
+Converted number is 0.100000
+Type an double numeric string (q - to quit):
+100000000000000000000000000000000000000000000000000000000000000000000000000000000.1000
+Converted number is 99999999999999998278261272554585856747747644714015897553975120217811154108416.000000
+Type an double numeric string (q - to quit):
+Converted number is 0.100000
+Type an double numeric string (q - to quit):
+Q
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***
