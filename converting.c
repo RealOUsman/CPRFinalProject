@@ -36,8 +36,8 @@ void converting()
     /* Version 2 */
     printf("*** Start of Converting Strings to double Demo ***\n");
 
-    // Create variables required by function, one char array for user input,
-    // and one double for storing the value after conversion
+    // Again, same as above, creating variables to use in function
+    // char array for user input, and double for storing the value after conversion
     char doubleString[BUFFER_SIZE];
     double doubleNumber;
 
@@ -63,4 +63,31 @@ void converting()
     printf("*** End of Converting Strings to double Demo ***\n");
 
     /* Version 3 */
+    printf("*** Start of Converting Strings to long Demo ***\n");
+
+    // Yet again, creating variables to use in function
+    // char array for user input, and long for storing the value after conversion
+    char longString[BUFFER_SIZE];
+    double longNumber;
+
+    // Conversion loop, stops when user enters "q"
+    do
+    {
+        // Get and clean user input
+        printf("Type an double numeric string (q - to quit):\n");
+        fgets(longString, BUFFER_SIZE, stdin);
+
+        // Replace \n with string terminator (clean input)
+        longString[strlen(longString) - 1] = '\0';
+
+        // If string was not q, convert and display converted value to user
+        if (strcmp(longString, "q") != 0)
+        {
+            longNumber = atof(longString);
+            printf("Converted number is %f\n", longNumber);
+        }
+
+    } while (strcmp(longString, "q") != 0);
+
+    printf("*** End of Converting Strings to long Demo ***\n");
 }
