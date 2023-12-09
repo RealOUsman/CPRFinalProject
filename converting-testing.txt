@@ -37,3 +37,49 @@ Converted number is 0
 Type an int numeric string (q - to quit):
 q
 *** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type an double numeric string (q - to quit):
+-8.000000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is -8.000000
+Type an double numeric string (q - to quit):
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+8.000000000000000000000000000000000000000000000000000000000000000000000000000000
+Converted number is 8.000000
+Type an double numeric string (q - to quit):
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+3.14159265
+Converted number is 3.141593
+Type an double numeric string (q - to quit):
+3.14159265
+Converted number is 3.141593
+Type an double numeric string (q - to quit):
+5.62951413
+Converted number is 5.629514
+Type an double numeric string (q - to quit):
+abc.abc
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+30
+Converted number is 30.000000
+Type an double numeric string (q - to quit):
+0
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+-80000000000000000000000000000000000000000000000000000000000000000000000000000000.10000
+Converted number is -80000000000000003764810759672437567132476811262933046114229676279185996251136.000000
+Type an double numeric string (q - to quit):
+Converted number is 0.100000
+Type an double numeric string (q - to quit):
+80000000000000000000000000000000000000000000000000000000000000000000000000000000.10000
+Converted number is 799999999999999986226090180436686853981981157712127180431800961742489232867328.000000
+Type an double numeric string (q - to quit):
+Converted number is 0.100000
+Type an double numeric string (q - to quit):
+Q
+Converted number is 0.000000
+Type an double numeric string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***
