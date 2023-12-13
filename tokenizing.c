@@ -30,9 +30,8 @@ void tokenizing(void)
 		}
 	} while (strcmp(words, "q") != 0);
 	printf("*** End of Tokenizing Words Demo ***\n\n");
-}
 
-	/*V2
+	//V2
 	//starting of version 2 of tokenizing demo
 	printf("*** Initiating Tokenizing Phrases Demonstration ***\n"); // Declare a character array variable named "phrases" with the size BUFFER-SIZE
 	char phrases[BUFFER_SIZE]; // Create a pointer variable "nextPhrase" initialized to NULL
@@ -40,24 +39,23 @@ void tokenizing(void)
 	int phrasesCounter = NULL;
 	do
 	{
-		printf("Enter several phrases separated by commas (type 'q' to quit):\n"); // Retrieve input from the user and store it in the "phrases" variable
+		printf("Enter several phrases separated by commas (type 'q' to quit):\n");
 		fgets(phrases, BUFFER_SIZE, stdin); // Replace the trailing newline character with a null terminator
 		phrases[strlen(phrases) - 1] = '\0'; // Check if the entered phrases are not equal to 'q'
 		if ((strcmp(phrases, "q") != 0))
 		{
-			nextPhrase = strtok(phrases, ",");// Tokenize the phrases using commas as delimiters
-			phrasesCounter = 1; // Initialize "phrasesCounter" to 1
+			nextPhrase = strtok(phrases, ",");
 			while (nextPhrase)
 			{
-				printf("Phrase #%d: '%s'\n", phrasesCounter++, nextPhrase);// Display the phrase number and the corresponding phrase
-				nextPhrase = strtok(NULL, ",");// Tokenize the next phrase using commas
+				printf("Phrase #%d: '%s'\n", phrasesCounter++, nextPhrase);
+				nextPhrase = strtok(NULL, ",");
 			}
 		}
 	} while (strcmp(phrases, "q") != 0);
 	// Conclude the tokenizing phrases demonstration
 	printf("*** Tokenizing Phrases Demonstration Concluded ***\n\n");
 
-	// V3
+	//V3
 	printf("* Start of Tokenizing Sentences Demo *\n"); //start of tokenizing sentences demo
 	char sentences[BUFFER_SIZE]; // variable sentences of char with size[BUFFER_SIZE]
 	char* nextSentence = NULL;  //declare pointer variable nextSentence = NULL
@@ -84,4 +82,4 @@ void tokenizing(void)
 	} while (strcmp(sentences, "q") != 0);
 	//end of tokenizing phrases demo
 	printf("*** End of Tokenizing Sentences Demo ***\n\n");
-}*/
+}

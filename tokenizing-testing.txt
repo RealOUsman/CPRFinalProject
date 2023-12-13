@@ -1,3 +1,4 @@
+v1
 *** Start of Tokenizing Words Demo ***
 Type a few words separated by space (q to quit):
 apple banana orange
@@ -13,60 +14,82 @@ Type a few words separated by space (q to quit):
 $%^&
 Word is #1 is '$%^&'
 Type a few words separated by space (q to quit):
-word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word word
-Word is #1 is 'word'
-Word is #2 is 'word'
-Word is #3 is 'word'
-Word is #4 is 'word'
-Word is #5 is 'word'
-Word is #6 is 'word'
-Word is #7 is 'word'
-Word is #8 is 'word'
-Word is #9 is 'word'
-Word is #10 is 'word'
-Word is #11 is 'word'
-Word is #12 is 'word'
-Word is #13 is 'word'
-Word is #14 is 'word'
-Word is #15 is 'word'
-Word is #16 is 'word'
-Word is #17 is 'word'
-Word is #18 is 'word'
-Word is #19 is 'word'
-Word is #20 is 'word'
-Word is #21 is 'word'
-Word is #22 is 'word'
-Word is #23 is 'word'
-Word is #24 is 'word'
-Word is #25 is 'word'
-Word is #26 is 'word'
-Word is #27 is 'word'
-Word is #28 is 'word'
-Word is #29 is 'word'
-Word is #30 is 'word'
-Word is #31 is 'word'
-Word is #32 is 'word'
-Word is #33 is 'word'
-Word is #34 is 'word'
-Word is #35 is 'word'
-Word is #36 is 'word'
-Word is #37 is 'word'
-Word is #38 is 'word'
-Word is #39 is 'word'
-Word is #40 is 'word'
-Word is #41 is 'word'
-Word is #42 is 'word'
-Word is #43 is 'word'
-Word is #44 is 'word'
-Word is #45 is 'word'
-Word is #46 is 'word'
-Word is #47 is 'word'
-Word is #48 is 'word'
-Word is #49 is 'word'
-Word is #50 is 'word'
+*** Start of Tokenizing Words Demo ***
 Type a few words separated by space (q to quit):
-123 456 789
-Word is #1 is '123'
-Word is #2 is '456'
-Word is #3 is '789'
+she said, hello
+Word is #1 is 'she'
+Word is #2 is 'said,'
+Word is #3 is 'hello'
 Type a few words separated by space (q to quit):
+catqdog
+Word is #1 is 'catqdog'
+Type a few words separated by space (q to quit):
+cat q dog
+Word is #1 is 'cat'
+Word is #2 is 'q'
+Word is #3 is 'dog'
+
+v2
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+*** Initiating Tokenizing Phrases Demonstration ***
+Enter several phrases separated by commas (type 'q' to quit):
+one,two,three
+Phrase #0: 'one'
+Phrase #1: 'two'
+Phrase #2: 'three'
+Enter several phrases separated by commas (type 'q' to quit):
+dog jumped over,,the fence
+Phrase #3: 'dog jumped over'
+Phrase #4: 'the fence'
+Enter several phrases separated by commas (type 'q' to quit):
+q what about,the break fast,?
+Phrase #5: 'q what about'
+Phrase #6: 'the break fast'
+Phrase #7: '?'
+Enter several phrases separated by commas (type 'q' to quit):
+orange, ,and, ,green
+Phrase #8: 'orange'
+Phrase #9: ' '
+Phrase #10: 'and'
+Phrase #11: ' '
+Phrase #12: 'green'
+Enter several phrases separated by commas (type 'q' to quit):
+WHY ARE YOU THERE?, SITTING ALL ALONE.,
+Phrase #13: 'WHY ARE YOU THERE?'
+Phrase #14: ' SITTING ALL ALONE.'
+Enter several phrases separated by commas (type 'q' to quit):
+q,ok,bye
+Phrase #18: 'q'
+Phrase #19: 'ok'
+Phrase #20: 'bye'
+*** Tokenizing Phrases Demonstration Concluded ***
+
+v3
+* Start of Tokenizing Sentences Demo *
+Type a few sentences separated by dot (q to quit):
+can you read it. if so please do.
+Sentence #1 is 'can you read it'
+Sentence #2 is ' if so please do'
+Type a few sentences separated by dot (q to quit):
+  .  .  .
+Sentence #1 is '  '
+Sentence #2 is '  '
+Sentence #3 is '  '
+Type a few sentences separated by dot (q to quit):
+1? .  . ''"".
+Sentence #1 is '1? '
+Sentence #2 is '  '
+Sentence #3 is ' ''""'
+Type a few sentences separated by dot (q to quit):
+Hello. This is a valid sentence. 123! Invalid sentence. Another valid one
+Sentence #1 is 'Hello'
+Sentence #2 is ' This is a valid sentence'
+Sentence #3 is ' 123! Invalid sentence'
+Sentence #4 is ' Another valid one'
+Type a few sentences separated by dot (q to quit):
+q
+*** End of Tokenizing Sentences Demo ***
